@@ -18,7 +18,7 @@
 
     <!-- 统一管理jar包版本 -->
     <properties>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <slf4j.version>1.7.25</slf4j.version>
         <log4j.version>1.2.12</log4j.version>
 
